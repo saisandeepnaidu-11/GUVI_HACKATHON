@@ -1,0 +1,7 @@
+{
+  "name": " AI Voice Forensic Detector",
+  "description": "A sophisticated multi-language audio forensic tool that detects AI-generated speech using advanced spectral analysis and neural patterns across Tamil, English, Hindi, Malayalam, and Telugu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
